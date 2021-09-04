@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relogio</string>
+    <string name="sair">Sair</string>
+    <string name="_00_00">00:00</string>
+    <string name="_00">00</string>
+    <string name="boa_noite">Boa noite</string>
+    <string name="bateria">Bateria</string>
+    <string name="boa_noite2">Boa noite</string>
+</resources>
